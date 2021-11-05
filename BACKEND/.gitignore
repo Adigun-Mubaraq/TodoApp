@@ -1,0 +1,9 @@
+node_modules/
+scripts/sheets/*
+routes/*.rest
+.vscode/*
+config/keys.json
+app.yaml
+.env
+.gcloudignore
+build/*
